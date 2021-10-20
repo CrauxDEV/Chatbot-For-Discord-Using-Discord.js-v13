@@ -17,3 +17,11 @@ Basically you will see in the code that
 ```js
   if (message.channel.name == "chatbot")
 ```
+This depicts that if the channel name is chatbot then in that chatbot named Channel the bot will work/ chat.
+So at last we can say if you create a channel named chatbot then only the bot will chat in that specific channel
+# Links
+👉<a href="https://www.npmjs.com/package/smartestchatbot">Smartestchatbot Package</a>
+<br />
+👉<a href="https://dsc.gg/hornetop">Support Server Discord</a>
+
+# Thanks for Visiting, Dont Forget to star!
